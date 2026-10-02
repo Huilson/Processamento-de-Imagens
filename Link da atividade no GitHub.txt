@@ -1,0 +1,4 @@
+Link da atividade no GitHub:
+https://github.com/Huilson/Processamento-de-Imagens
+
+Para executar bastar compilar e executar os arquivos, depois seguir as orientações no console.

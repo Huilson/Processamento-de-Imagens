@@ -39,7 +39,7 @@ def segmentar_mm(caminho_imagem, cor_usuario):
   # Indexação Booleana / Masking
   matriz_preta[mascara] = matriz[mascara]
 
-  # Sem a técnica de Masking
+  # Sem a técnica de Masking (exemplo do vermelho)
   # for i in range(altura):
   #   for j in range(largura):
   #     if r > 150 and g < 100 and b < 100:
